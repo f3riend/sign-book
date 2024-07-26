@@ -9,3 +9,6 @@ The working logic is simple, there are 3 different strains in the csv file:
 - Purpose
 - Link
 as such, just do not touch the csv file or make any changes without the editor.
+
+![SnapShot](https://github.com/f3riend/sign-book/blob/main/sign-book.png)
+![Code](https://github.com/f3riend/sign-book/blob/main/sign-book-code.png)
